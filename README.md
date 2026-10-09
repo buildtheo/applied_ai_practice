@@ -13,6 +13,10 @@ Governed by [`THEOOS_CHARTER.md`](./THEOOS_CHARTER.md) — read that first. It i
 - **`career/current-role-context.md`** — *placeholder, not yet populated.* Current role, org, mandate, and strategic context.
 - **`career/career-thesis.md`** — *placeholder, not yet populated.* The decade-scale question the Charter asks TheoOS to help answer: what enduring capability to build next.
 
+## Project Evidence
+
+- [ZeroForm + Sentinel historical write-up](./evidence/zeroform-sentinel-writeup.md) — architecture, implementation notes, engineering lessons, and unresolved claims. Added 2026-10-09; credentials removed and verification limits documented.
+
 ## Status
 
 Scaffolded 2026-08-03. Placeholder files exist so the intended shape of TheoOS is visible even before each is populated — do not treat an empty placeholder as evidence of anything.
